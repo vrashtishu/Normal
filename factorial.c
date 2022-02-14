@@ -10,4 +10,4 @@ int main()
 		j=j*i;
 
 	printf("Factorial of %d is %d",num,j);
-}
+}}}}}
