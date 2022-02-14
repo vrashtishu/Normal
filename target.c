@@ -13,6 +13,7 @@ int main()
 	}while(balance<target);
 	printf("%d No. of years to achieve balance %d.\n",year,balance);
 	return 0;
+	printf("Hye");
 }
 
 	
